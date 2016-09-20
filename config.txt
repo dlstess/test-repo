@@ -1,3 +1,3 @@
 name= Zahary
-size=200
+size=255
 email:zahary@abv.bg
